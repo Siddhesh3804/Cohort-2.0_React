@@ -1,0 +1,35 @@
+#navbar{
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#navbar h3{
+  font-size: 28px;
+  font-weight: 600;
+}
+
+#navbar a{
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-right: 80px;
+}
+
+#navbar #aboutus{
+  border: 1px solid #bfc2c6;
+  border-radius: 20px;
+  padding: 5px 12px;
+}
+
+#navbar button{
+  color: #ffff;
+  background-color: #0d1a2d;
+  font-size: 16px;
+  font-weight: 100;
+  padding: 12px 22px;
+  border: 1px solid #0d1a2d;
+  border-radius: 40px;
+}

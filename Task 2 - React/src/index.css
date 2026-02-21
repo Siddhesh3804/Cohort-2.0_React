@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Urbanist;
+  src: url(./assets/Urbanist[wght].ttf);
+}
+
+body{
+  font-family: Urbanist;
+  background-color: #ffff;
+  margin: 30px 35px;
+}
