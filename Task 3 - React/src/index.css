@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: AlegreyaSans;
+    src: url(../assets/AlegreyaSans-Regular.ttf);
+}
+@font-face {
+    font-family: BarlowCondensed;
+    src: url(../assets/BarlowCondensed-Regular.woff);
+}
+*{
+    box-sizing: border-box;
+}
+body,html{
+    font-family: AlegreyaSans;
+    color: #ffffff;
+    background-color: #060504;
+}
+.BarlowCondensed{
+    font-family: BarlowCondensed;
+}
